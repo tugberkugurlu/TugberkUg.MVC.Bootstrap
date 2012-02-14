@@ -1,19 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TugberkUg.MVC.Bootstrap", "src\TugberkUg.MVC.Bootstrap\", "{226215EE-AFCD-4C9F-AD9F-0CCAE829C6C4}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TugberkUg.MVC.Bootstrap", "src\web\", "{226215EE-AFCD-4C9F-AD9F-0CCAE829C6C4}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/TugberkUg.MVC.Bootstrap"
-		Debug.AspNetCompiler.PhysicalPath = "src\TugberkUg.MVC.Bootstrap\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TugberkUg.MVC.Bootstrap\"
+		Debug.AspNetCompiler.VirtualPath = "/web"
+		Debug.AspNetCompiler.PhysicalPath = "src\web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\web\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/TugberkUg.MVC.Bootstrap"
-		Release.AspNetCompiler.PhysicalPath = "src\TugberkUg.MVC.Bootstrap\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TugberkUg.MVC.Bootstrap\"
+		Release.AspNetCompiler.VirtualPath = "/web"
+		Release.AspNetCompiler.PhysicalPath = "src\web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\web\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
